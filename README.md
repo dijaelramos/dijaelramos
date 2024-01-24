@@ -1,10 +1,10 @@
-Hello, my name is Dijael.
+Olá, meu nome é Dijael.
 
-I will describe some things about myself:
+Vou descrever algumas coisas sobre mim:
 
-- I have a degree in Information Systems
-- 🔭 I am currently working in IT Support
-- 🌱 I am currently learning Java programming
-- 👯 I'm looking for a position in Back-End development
+- Sou formado em Sistemas de informação
+- 🔭 Atualmente estou trabalhando em Suporte de TI
+- 🌱 Atualmente estou aprendendo programação em Java
+- 👯 Procuro uma vaga em desenvolvimento Back-End
 
-Some knowledge I have:
+Alguns conhecimentos que eu tenho:
