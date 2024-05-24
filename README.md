@@ -19,7 +19,7 @@ Alguns coisas sobre mim:
   <div> 
     <a href="mailto:dijaelr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=5581996276595" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dijael-ramos-1a4b001b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/dijael-ramos-1a4b001b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/dijaelramos/" target="_blank"><img alt="dijael-instagram" height="35" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
  
 </div>
